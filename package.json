@@ -1,0 +1,25 @@
+{
+  "name": "cs3-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikhtiartaJNE/sele-cs3v2.git"
+  },
+  "author": "Hasan.ikhtiarta@jne.co.id",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikhtiartaJNE/sele-cs3v2/issues"
+  },
+  "homepage": "https://github.com/hikhtiartaJNE/sele-cs3v2#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-rc-1"
+  },
+  "devDependencies": {
+    "jest": "^27.2.1"
+  }
+}
